@@ -52,7 +52,7 @@ Additionally, the application collects evidence (with timestamps) and can forwar
 
 Below is the complete folder structure for the project:
 
-my-supabase-compliance-app/
+# my-supabase-compliance-app/
 ├── backend/
 │   ├── package.json
 │   ├── tsconfig.json
