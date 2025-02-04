@@ -1,8 +1,8 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { scanApi, fixApi } from "./apiService";
-import { ScanResults } from "./type";
+import { scanApi, fixApi } from "../../lib/apiService";
+import { ScanResults } from "../../lib/type";
 
 export default function ResultsPage() {
   const [results, setResults] = useState<ScanResults | null>(null);
