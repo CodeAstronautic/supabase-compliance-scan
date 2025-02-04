@@ -109,15 +109,15 @@ Below is the complete folder structure for the project:
    cd my-supabase-compliance-app/backend
 Install dependencies:
 
-npm install
+- ** npm install **
 Run in Development Mode:
 
-npm run dev
+- ** npm run dev **
 Or build and run in production mode:
 
 
-npm run build
-npm start
+- **npm run build**
+- **npm start**
 The backend server will run on port 3001 by default.
 
 Frontend Setup
@@ -127,13 +127,12 @@ Navigate to the frontend/ folder:
 cd my-supabase-compliance-app/frontend
 Install dependencies:
 
-bash
-Copy
-npm install
+
+- **npm install**
 Start the Next.js Development Server:
 
 
-npm run dev
+- **npm run dev**
 The frontend server will run on port 3000 by default.
 
 Running the Application
